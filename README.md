@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AugustinDevelopper
+- 👀 I’m interested in mobile programming 
+- 🌱 I’m currently learning mobile programming with java and python 
+- 💞️ I’m looking to collaborate on web with  php language and java  programming
+- 📫 How to reach me, write a short message on this e-mail adress:irengemufungizi@gmail.com
